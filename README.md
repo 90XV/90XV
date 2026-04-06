@@ -2,8 +2,9 @@
    <pre style="font-family: monospace; text-align: center; line-height: 1.5; font-size: 14px; color: #1a1a1b">
   [ im helia ]
   ────────────────────────
-- 🌱 I’m currently learning GO
-- ⚡ Familiar with [HTML, CSS and JavaScript] [Python (Flask)]
+- 🌱 Currently learning Java!
+- 💻 Mainly webdev work : WordPress, React
+- ⚡ Have experience in C, Python, JavaScript, Go
 - 📫 Website: adham.forum
   ────────────────────────
    </pre>
